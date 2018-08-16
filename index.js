@@ -25,3 +25,8 @@ function dec(n) {
   number--
   return number
 }
+
+function makeInt(n) {
+  integer = parseInt(n, 10)
+  return integer 
+}
