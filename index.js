@@ -30,3 +30,8 @@ function makeInt(n) {
   var integer = parseInt(n, 10)
   return integer 
 }
+
+function makeInt(n) {
+  var float = parseFloat(n)
+  return float
+}
