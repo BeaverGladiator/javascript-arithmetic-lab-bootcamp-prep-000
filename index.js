@@ -15,11 +15,11 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  n = number
+  var number  = n
   return number++
 }
 
 function dec(n) {
-  n = number
+  var number = 
   return number--
 }
